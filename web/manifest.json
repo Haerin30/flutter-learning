@@ -1,6 +1,6 @@
 {
-    "name": "grillpoint_learning",
-    "short_name": "grillpoint_learning",
+    "name": "grillpoint",
+    "short_name": "grillpoint",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

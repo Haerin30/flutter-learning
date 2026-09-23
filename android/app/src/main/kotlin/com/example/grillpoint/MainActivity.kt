@@ -1,4 +1,4 @@
-package com.example.grillpoint_learning
+package com.example.grillpoint
 
 import io.flutter.embedding.android.FlutterActivity
 
